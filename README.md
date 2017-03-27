@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-+ Entry 1: Intro 
++ [Entry 1: Intro](entries/entry1-intro.md)
 + Entry 2:
 + Entry 3:
 + Entry 4:
