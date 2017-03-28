@@ -1,4 +1,4 @@
-# Independent-Study
+# Twitterbot IndependentStudy
 
 ## Table of Contents
 
