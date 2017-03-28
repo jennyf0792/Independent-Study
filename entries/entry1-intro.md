@@ -7,7 +7,7 @@ I searched through the links on gDocs that Mr. Mueller provided the class with t
 
 Since I am actively on Twitter, I decided chatterbot would be nice for me because sometimes, I post random things on my feed. I thought it would be cool to have a bot to automatically generate tweet texts for me. I want to create a simple tutorial for others to understand to make what I will be making.
 
-<img src="twitterbot-images/twitterbot.png">
+<img src="twitterbot.png">
 
 ## Twitter On The Go! / First Attempt
 
