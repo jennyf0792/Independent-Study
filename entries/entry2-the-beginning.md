@@ -24,6 +24,7 @@ Above all this, I was suppose to connect to the correct consumer key and all tha
 3. Lastly, I always and will always resort to my best friend, Google :)
 
 Here is my [Twitter](https://twitter.com/jenneyxo_) page
+
 [Previous](entry1-intro.md) | [Next](entry3-new-methods.md)
 
 [Table of Contents](../README.md)
