@@ -23,7 +23,7 @@ Above all this, I was suppose to connect to the correct consumer key and all tha
 2. If you're really irritated by how the code doesn't work, I copied and pasted the older, original code and see my other commits -- hoping to find ANYTHING, literally anything that would help me if I could find a difference in the code.
 3. Lastly, I always and will always resort to my best friend, Google :)
 
-
+Here is my [Twitter](https://twitter.com/jenneyxo_) page
 [Previous](entry1-intro.md) | [Next](entry3-new-methods.md)
 
 [Table of Contents](../README.md)
