@@ -17,6 +17,7 @@ client = Twitter::REST::Client.new do |config|
 end
 ```
 Above all this, I was suppose to connect to the correct consumer key and all that hooba balooba. On the new account I made, there was no tweets, obviously it was new. The account was locked out when I tried to generate an automated tweet but it failed because the account appeared to have violated the Twitter rules. ** Rolling my eyes **
+
 ## Takeaways
 1. Always ask a friend because two pair of eyes are better than one!
 2. If you're really irritated by how the code doesn't work, I copied and pasted the older, original code and see my other commits -- hoping to find ANYTHING, literally anything that would help me if I could find a difference in the code.
