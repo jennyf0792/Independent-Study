@@ -19,7 +19,7 @@ Receiving this email with this marvelous picture showed me that I actually did s
 
 ## Takeaways
 1. I still struggle with learning how to making a functioning Twitterbot, because there is not much on the two Github tutorials that I use alone. So I googled some Youtube videos, yes I am desperate for any kind of help.
-2. I decided to bring my rubber ducky *eye emoji looking upwards*. Talking to Sargent Eskimoski really helped with my frustration as I continued to scream at him :( but I will definitely recommend speaking to your friend or something inanimate. 
+2. I decided to bring my rubber ducky *eye emoji looking upwards*. Talking to Sargent Eskimoski really helped with my frustration as I continued to scream at him :( but I will definitely recommend speaking to your friend or something inanimate.
 3. When you're working on your project at home, be sure to reread and do some yoga~ Don't stress yourself out and always check for minor typing mistakes. When I have a big chunk of code, I usually copy one part of the code, go over which part has a mistake, if not, then I repeat with the other blocks of code.
 
 
