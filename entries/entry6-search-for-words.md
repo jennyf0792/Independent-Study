@@ -2,11 +2,13 @@
 
 Next up on this Github tutorial was how to search key words and sending a retweet back to that specific tweet. I don't know what's harder, searching for words or searching for a life. I thought when Mr. Mueller is teaching is difficult but learning on your own is a whole different level. 
 
-<img src="../twitterbot-images/creenshot05-15-17.png">
+<img src="../twitterbot-images/screenshot-05-15-17.png">
 
 ## Fixing My Mistake(s)
 
 Again, according the previous and past blog entries, the littlest mistakes are mistakes that you least expect because it just doesn't seem wrong! Am I right? I know I'm right because I'm going through that phase still. When I make 
+
+
 
 ## Takeaways
 1. I actually used Google and it actually was helpful for once. I didn't understand the purpose of the client.sample and client.filter, etc. I tried and tried and tried (and cried) over the an issue so small that when I realized what was wrong, I thank Google. 
