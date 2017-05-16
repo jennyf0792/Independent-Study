@@ -8,7 +8,7 @@ Next up on this Github tutorial was how to search key words and sending a retwee
 
 Again, according the previous and past blog entries, the littlest mistakes are mistakes that you least expect because it just doesn't seem wrong! Am I right? I know I'm right because I'm going through that phase still. When I make 
 
-
+<img src="../twitterbot-images/2017-05-16.png">
 
 ## Takeaways
 1. I actually used Google and it actually was helpful for once. I didn't understand the purpose of the client.sample and client.filter, etc. I tried and tried and tried (and cried) over the an issue so small that when I realized what was wrong, I thank Google. 
