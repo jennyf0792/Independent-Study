@@ -2,7 +2,7 @@
 
 Next up on this Github tutorial was how to search key words and sending a retweet back to that specific tweet. I don't know what's harder, searching for words or searching for a life. I thought when Mr. Mueller is teaching is difficult but learning on your own is a whole different level. 
 
-<img src="../twitterbot-images/screenshot-05-15-17.png">
+<img src="../twitterbot-images/entry6.png">
 
 ## Fixing My Mistake(s)
 
