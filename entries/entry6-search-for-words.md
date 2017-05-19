@@ -1,6 +1,10 @@
 # In a Search for Words
 
-Next up on this Github tutorial was how to search key words and sending a retweet back to that specific tweet. I don't know what's harder, searching for words or searching for a life. I thought when Mr. Mueller is teaching is difficult but learning on your own is a whole different level. 
+Next up on this Github tutorial was how to search key words and sending a retweet back to that specific tweet. I don't know what's harder, searching for words or searching for a life. I thought when Mr. Mueller is teaching is difficult but learning on your own is a whole different level. I ran my code through ruby(obviously) and the every single time I see a new change, either it's small or large, it brings me joy.
+
+# Results
+
+So on cloud9, I wanted to have my twitter account search through my followers' and random tweets, then print out or 'puts' the number of tweets requested that has the keyword, "potato", in this case. Replacing the keyword to search will change the results and the '.take(#)' will print out however many tweets that you want
 
 <img src="../twitterbot-images/entry6.png">
 
